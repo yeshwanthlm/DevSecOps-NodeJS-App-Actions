@@ -63,6 +63,10 @@ node -v
 java --version
 ```
 
+# **Deployment Stages:**
+
+<img width="1192" alt="Screenshot 2024-09-18 at 1 01 53 PM" src="https://github.com/user-attachments/assets/129379d5-e0c0-4fbd-8cfb-423fc7dfbb01">
+
 # **GitHub Actions Workflow YAML:**
 
 ```
@@ -114,5 +118,3 @@ jobs:
       - name: Deploy to kubernetes
         run: kubectl apply -f deployment-service.yml
 ```
-
-
