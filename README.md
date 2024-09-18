@@ -1,6 +1,8 @@
 # DevSecOps NodeJS App Actions
 ## Deploy NodeJS Application on AWS using DevSecOps Approach using GitHub Actions
 
+![Starbucks Clone Deployment (1)](https://github.com/user-attachments/assets/44140491-8c87-4b1d-ab90-d618cafeca38)
+
 # **Installation of Tools:**
 1. Install Java 17
 2. Install Temurin (formerly Adoptium) JDK 17.
