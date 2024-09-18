@@ -1,5 +1,6 @@
 # DevSecOps NodeJS App Actions
 ## Deploy NodeJS Application on AWS using DevSecOps Approach using GitHub Actions
+Diagramatic Representation: https://app.eraser.io/workspace/N9WEOScdfImDvzC23E1e?origin=share
 
 ![Starbucks Clone Deployment (1)](https://github.com/user-attachments/assets/44140491-8c87-4b1d-ab90-d618cafeca38)
 
